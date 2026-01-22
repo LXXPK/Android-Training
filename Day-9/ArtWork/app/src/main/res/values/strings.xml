@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtWork</string>
+    <string name="previous">Previous</string>
+    <string name="next"> Next</string>
+    <string name="art1">Peacock 1 Art</string>
+    <string name="art1desc">Artist One(2003)</string>
+    <string name="art2">Peacock 2 Art</string>
+    <string name="art2desc">Artist Two(2006)</string>
+    <string name="art3">Peacock 3 Art</string>
+    <string name="art3desc">Artist Three(2006)</string>
+</resources>
